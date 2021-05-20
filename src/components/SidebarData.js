@@ -27,7 +27,7 @@ export const SidebarData = [
   {
     title: 'Reports',
     path: '/reports',
-    icon: <AiIcons.AiFillHome />,
+    icon: <IoIcons.IoIosPaper />,
     iconClosed: <RiIcons.RiArrowDownSFill />,
     iconOpened: <RiIcons.RiArrowUpSFill />,
     subNav: [
